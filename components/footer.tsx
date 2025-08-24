@@ -14,7 +14,7 @@ export default function Footer() {
               <div className="bg-primary text-primary-foreground p-2 rounded-lg">
                 <Calculator className="h-6 w-6" />
               </div>
-              <span className="text-xl font-bold">MathSolutionsBD</span>
+              <span className="text-xl font-bold">MathSolutions</span>
             </div>
             <p className="text-muted-foreground text-sm">
               Your ultimate educational companion for Bangladeshi students. Complete solutions for math, books, and
@@ -120,7 +120,7 @@ export default function Footer() {
             <div className="space-y-3">
               <div className="flex items-center gap-2 text-sm text-muted-foreground">
                 <Mail className="h-4 w-4" />
-                info@MathSolutionsbd.com
+                info@MathSolutions.com
               </div>
               <div className="flex items-center gap-2 text-sm text-muted-foreground">
                 <Phone className="h-4 w-4" />
@@ -135,7 +135,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-border mt-8 pt-8 flex flex-col sm:flex-row justify-between items-center">
-          <p className="text-sm text-muted-foreground">© 2024 MathSolutionsBD. All rights reserved.</p>
+          <p className="text-sm text-muted-foreground">© 2024 MathSolutions. All rights reserved.</p>
           <div className="flex items-center gap-4 mt-4 sm:mt-0">
             <Link href="/terms" className="text-sm text-muted-foreground hover:text-foreground transition-colors">
               Terms & Conditions

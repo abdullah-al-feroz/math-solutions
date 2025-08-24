@@ -5,7 +5,7 @@
 //     <div className="fixed inset-0 bg-background/80 backdrop-blur-sm z-50 flex items-center justify-center">
 //       <div className="text-center">
 //         <div className="loader mx-auto mb-4"></div>
-//         <p className="text-lg font-medium text-foreground">Loading MathSolutionsBD...</p>
+//         <p className="text-lg font-medium text-foreground">Loading MathSolutions...</p>
 //       </div>
 //     </div>
 //   )
@@ -24,7 +24,7 @@ export default function Loader() {
           </div>
         </div>
         <div className="text-center">
-          <h3 className="font-heading font-semibold text-lg text-foreground">MathSolutionsBD</h3>
+          <h3 className="font-heading font-semibold text-lg text-foreground">MathSolutions</h3>
           <p className="text-sm text-muted-foreground animate-pulse">Loading your study companion...</p>
         </div>
       </div>

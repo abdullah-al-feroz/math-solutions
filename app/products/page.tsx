@@ -245,7 +245,7 @@ export default function ProductsPage() {
           <Button
             size="lg"
             variant="secondary"
-            onClick={() => window.open("https://facebook.com/MathSolutionsbd", "_blank")}
+            onClick={() => window.open("https://facebook.com/MathSolutions", "_blank")}
             className="gap-2"
           >
             <ExternalLink className="h-5 w-5" />

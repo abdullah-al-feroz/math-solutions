@@ -159,7 +159,7 @@ export default function HomePage() {
               </h1>
               <p className="text-lg text-muted-foreground mb-8 max-w-2xl">
                 Master mathematics, access thousands of PDF books, get admission guidance, and excel in your academic
-                journey with MathSolutionsBD.
+                journey with MathSolutions.
               </p>
 
               {/* Action Buttons */}

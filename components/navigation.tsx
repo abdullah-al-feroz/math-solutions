@@ -51,7 +51,7 @@ export default function Navigation() {
             <div className="w-7 h-7 sm:w-8 sm:h-8 bg-gradient-to-br from-primary to-secondary rounded-lg flex items-center justify-center text-white animate-bounce-gentle">
               ∑
             </div>
-            <span className="text-xl font-bold text-foreground">MathSolutionsBD</span>
+            <span className="text-xl font-bold text-foreground">MathSolutions</span>
           </Link>
 
           {/* Desktop Menu */}
@@ -121,7 +121,7 @@ export default function Navigation() {
                     <div className="bg-primary text-primary-foreground p-2 rounded-lg">
                       <Calculator className="h-6 w-6" />
                     </div>
-                    <span className="text-xl font-bold">MathSolutionsBD</span>
+                    <span className="text-xl font-bold">MathSolutions</span>
                   </div>
 
                   {[...mainMenuItems, ...moreMenuItems].map((item) => {

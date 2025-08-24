@@ -7,7 +7,7 @@ import { Search, FileText, Award, Calendar } from "lucide-react"
 import Advertisement from "@/components/advertisement"
 
 export const metadata: Metadata = {
-  title: "Results - HSC, SSC, JSC Results Bangladesh - MathSolutionsBD",
+  title: "Results - HSC, SSC, JSC Results Bangladesh - MathSolutions",
   description: "Check HSC, SSC, JSC, and other examination results in Bangladesh. Get your results quickly and easily.",
   keywords: "HSC result, SSC result, JSC result, Bangladesh education board results, exam results BD",
 }

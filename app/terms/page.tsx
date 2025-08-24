@@ -3,9 +3,9 @@
 // import Advertisement from "@/components/advertisement"
 
 // export const metadata: Metadata = {
-//   title: "Terms and Conditions - MathSolutionsBD",
-//   description: "Read the terms and conditions for using MathSolutionsBD educational platform and services.",
-//   keywords: "terms conditions MathSolutionsBD, privacy policy, user agreement",
+//   title: "Terms and Conditions - MathSolutions",
+//   description: "Read the terms and conditions for using MathSolutions educational platform and services.",
+//   keywords: "terms conditions MathSolutions, privacy policy, user agreement",
 // }
 
 // export default function TermsPage() {
@@ -26,7 +26,7 @@
 //             </CardHeader>
 //             <CardContent className="prose max-w-none">
 //               <p>
-//                 By accessing and using MathSolutionsBD, you accept and agree to be bound by the terms and provision of this
+//                 By accessing and using MathSolutions, you accept and agree to be bound by the terms and provision of this
 //                 agreement. If you do not agree to abide by the above, please do not use this service.
 //               </p>
 //             </CardContent>
@@ -38,7 +38,7 @@
 //             </CardHeader>
 //             <CardContent className="prose max-w-none">
 //               <p>
-//                 Permission is granted to temporarily download one copy of the materials on MathSolutionsBD for personal,
+//                 Permission is granted to temporarily download one copy of the materials on MathSolutions for personal,
 //                 non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and
 //                 under this license you may not:
 //               </p>
@@ -100,7 +100,7 @@
 //             <CardContent className="prose max-w-none">
 //               <p>
 //                 If you have any questions about these Terms and Conditions, please contact us at
-//                 support@MathSolutionsbd.com or visit our contact page.
+//                 support@MathSolutions.com or visit our contact page.
 //               </p>
 //             </CardContent>
 //           </Card>
@@ -145,7 +145,7 @@ export default function TermsPage() {
               <section className="space-y-4">
                 <h2 className="font-heading font-bold text-2xl text-primary">1. Acceptance of Terms</h2>
                 <p className="text-muted-foreground leading-relaxed">
-                  By accessing and using MathSolutionsBD, you accept and agree to be bound by the terms and provision of
+                  By accessing and using MathSolutions, you accept and agree to be bound by the terms and provision of
                   this agreement. If you do not agree to abide by the above, please do not use this service.
                 </p>
               </section>
@@ -153,7 +153,7 @@ export default function TermsPage() {
               <section className="space-y-4">
                 <h2 className="font-heading font-bold text-2xl text-primary">2. Use License</h2>
                 <p className="text-muted-foreground leading-relaxed">
-                  Permission is granted to temporarily download one copy of the materials on MathSolutionsBD's website for
+                  Permission is granted to temporarily download one copy of the materials on MathSolutions's website for
                   personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of
                   title, and under this license you may not:
                 </p>
@@ -197,7 +197,7 @@ export default function TermsPage() {
               <section className="space-y-4">
                 <h2 className="font-heading font-bold text-2xl text-primary">6. Disclaimer</h2>
                 <p className="text-muted-foreground leading-relaxed">
-                  The materials on MathSolutionsBD's website are provided on an 'as is' basis. MathSolutionsBD makes no
+                  The materials on MathSolutions's website are provided on an 'as is' basis. MathSolutions makes no
                   warranties, expressed or implied, and hereby disclaims and negates all other warranties including
                   without limitation, implied warranties or conditions of merchantability, fitness for a particular
                   purpose, or non-infringement of intellectual property or other violation of rights.
@@ -207,9 +207,9 @@ export default function TermsPage() {
               <section className="space-y-4">
                 <h2 className="font-heading font-bold text-2xl text-primary">7. Limitations</h2>
                 <p className="text-muted-foreground leading-relaxed">
-                  In no event shall MathSolutionsBD or its suppliers be liable for any damages (including, without
+                  In no event shall MathSolutions or its suppliers be liable for any damages (including, without
                   limitation, damages for loss of data or profit, or due to business interruption) arising out of the
-                  use or inability to use the materials on MathSolutionsBD's website.
+                  use or inability to use the materials on MathSolutions's website.
                 </p>
               </section>
 
@@ -220,7 +220,7 @@ export default function TermsPage() {
                 </p>
                 <div className="bg-muted/50 p-4 rounded-lg">
                   <p className="text-sm">
-                    <strong>Email:</strong> info@MathSolutionsbd.com
+                    <strong>Email:</strong> info@MathSolutions.com
                     <br />
                     <strong>Phone:</strong> +880 1234-567890
                     <br />
@@ -232,7 +232,7 @@ export default function TermsPage() {
               <section className="space-y-4">
                 <h2 className="font-heading font-bold text-2xl text-primary">9. Changes to Terms</h2>
                 <p className="text-muted-foreground leading-relaxed">
-                  MathSolutionsBD reserves the right to revise these terms and conditions at any time without notice. By
+                  MathSolutions reserves the right to revise these terms and conditions at any time without notice. By
                   using this website, you are agreeing to be bound by the then current version of these terms and
                   conditions.
                 </p>

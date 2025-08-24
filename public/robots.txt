@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://MathSolutionsbd.com/sitemap.xml
+Sitemap: https://MathSolutions.com/sitemap.xml
 
 # Disallow admin areas (if any)
 Disallow: /admin/

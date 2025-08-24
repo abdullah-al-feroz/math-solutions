@@ -7,9 +7,9 @@
 // import Advertisement from "@/components/advertisement"
 
 // export const metadata: Metadata = {
-//   title: "Contact Us - MathSolutionsBD",
-//   description: "Get in touch with MathSolutionsBD for educational support, feedback, or inquiries about our services.",
-//   keywords: "contact MathSolutionsBD, educational support, student help, feedback",
+//   title: "Contact Us - MathSolutions",
+//   description: "Get in touch with MathSolutions for educational support, feedback, or inquiries about our services.",
+//   keywords: "contact MathSolutions, educational support, student help, feedback",
 // }
 
 // export default function ContactPage() {
@@ -63,7 +63,7 @@
 //               <CardContent className="space-y-4">
 //                 <div className="flex items-center space-x-3">
 //                   <Mail className="h-5 w-5 text-blue-600" />
-//                   <span>support@MathSolutionsbd.com</span>
+//                   <span>support@MathSolutions.com</span>
 //                 </div>
 //                 <div className="flex items-center space-x-3">
 //                   <Phone className="h-5 w-5 text-blue-600" />
@@ -175,7 +175,7 @@ export default function ContactPage() {
                       </div>
                       <div>
                         <h3 className="font-semibold mb-1">Email</h3>
-                        <p className="text-muted-foreground">info@MathSolutionsbd.com</p>
+                        <p className="text-muted-foreground">info@MathSolutions.com</p>
                       </div>
                     </CardContent>
                   </Card>

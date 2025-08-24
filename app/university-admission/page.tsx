@@ -260,8 +260,11 @@ export default function UniversityAdmissionPage() {
         </div>
 
         {/* No Results */}
-        {filteredUniversities.length === 0 && (
+        {/* {filteredUniversities.length === 0 && (
           <Card className="text-center p-12">
             <Building2 className="h-16 w-16 text-muted-foreground mx-auto mb-4" />
             <h3 className="text-xl font-semibold mb-2">কোন বিশ্ববিদ্যালয় পাওয়া যায়নি</h3>
-            <p className="text-muted-foreground">আপন\
+            <p className="text-muted-foreground">আপন </p>
+          </Card> */}
+      </main>
+    </div>)};

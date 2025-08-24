@@ -9,7 +9,7 @@ import Navigation from "@/components/navigation"
 import Footer from "@/components/footer"
 import { ArrowLeft, Calculator, Languages, FileText, CheckCircle } from "lucide-react"
 import Link from "next/link"
-import MathSolutionssData from "@/data/math-solutionss.json"
+import MathSolutionssData from "@/data/math-solutions.json"
 
 interface Problem {
   id: number

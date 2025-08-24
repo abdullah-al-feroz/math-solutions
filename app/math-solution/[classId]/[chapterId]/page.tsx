@@ -1,5 +1,5 @@
 import { notFound } from "next/navigation"
-import Navigation from "@/components/navigation"
+import Header from "@/components/navigation"
 import Footer from "@/components/footer"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
@@ -84,7 +84,7 @@ export default async function ChapterPage({ params }: PageProps) {
 
   return (
     <>
-      <Navigation />
+      <Header />
       <main className="min-h-screen bg-background">
         {/* Breadcrumb and Header */}
         <section className="bg-gradient-to-br from-primary/5 via-background to-accent/5 py-16 px-4 sm:px-6 lg:px-8">

@@ -35,7 +35,7 @@ export default function HomePage() {
       icon: Calculator,
       title: "Math Solutions",
       description: "Step-by-step solutions for all classes",
-      href: "/math-solutions",
+      href: "/math-solution",
       bgColor: "bg-blue-50",
       iconColor: "text-blue-600",
     },
@@ -70,7 +70,7 @@ export default function HomePage() {
       icon: Calculator,
       title: "Math Solutions",
       description: "Solve problems step by step",
-      href: "/math-solutions",
+      href: "/math-solution",
       bgColor: "bg-blue-500",
       iconColor: "text-white",
     },
@@ -165,7 +165,7 @@ export default function HomePage() {
               {/* Action Buttons */}
               <div className="flex gap-4 mb-12">
                 <Button asChild size="lg" className="font-medium animate-bounce-gentle bg-blue-600 hover:bg-blue-700" >
-                  <Link href="/math-solutions">Start Learning Math</Link>
+                  <Link href="/math-solution">Start Learning Math</Link>
                 </Button>
                 <Button asChild size="lg" variant="outline" className="font-medium bg-transparent">
                   <Link href="/pdf-books">Browse Books</Link>
@@ -174,7 +174,7 @@ export default function HomePage() {
 
               {/* <div className="flex flex-col sm:flex-row gap-4">
               <Button asChild size="lg" className="font-medium animate-bounce-gentle">
-                <Link href="/math-solutions">Start Learning Math</Link>
+                <Link href="/math-solution">Start Learning Math</Link>
               </Button>
               <Button asChild variant="outline" size="lg" className="font-medium bg-transparent">
                 <Link href="/pdf-books">Browse Books</Link>

@@ -22,7 +22,7 @@ import {
 
 const mainMenuItems = [
   { name: "Home", href: "/", icon: BookOpen },
-  { name: "Math Solution", href: "/math-solutions", icon: Calculator },
+  { name: "Math Solution", href: "/math-solution", icon: Calculator },
   { name: "PDF Book", href: "/pdf-books", icon: FileText },
   { name: "College Admission", href: "/college-admission", icon: GraduationCap },
   { name: "Blog", href: "/blog", icon: Newspaper },

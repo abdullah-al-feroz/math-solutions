@@ -38,7 +38,7 @@ export default function Footer() {
             <h3 className="font-semibold text-foreground">Quick Links</h3>
             <div className="space-y-2">
               <Link
-                href="/math-solutions"
+                href="/math-solution"
                 className="block text-sm text-muted-foreground hover:text-foreground transition-colors"
               >
                 Math Solutions

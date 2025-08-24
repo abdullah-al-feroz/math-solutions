@@ -1,0 +1,1070 @@
+{
+  "notices": [
+    {
+      "id": 1,
+      "title": "HSC Result 2024 Published",
+      "date": "2024-01-15",
+      "preview": "HSC Result 2024 has been published. Students can check their results from the official website...",
+      "content": "HSC Result 2024 has been published. Students can check their results from the official website. The pass rate this year is 87.5% which is higher than last year. Students who want to apply for university admission should prepare their documents accordingly. For any queries regarding results, contact the education board directly.",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "University Admission Circular 2024-25",
+      "date": "2024-01-10",
+      "preview": "University admission circular for the academic year 2024-25 has been published...",
+      "content": "University admission circular for the academic year 2024-25 has been published. All eligible students can apply online from January 20, 2024. The application deadline is February 28, 2024. Required documents include HSC certificate, testimonial, and passport size photographs. Admission test will be held in March 2024.",
+      "featured": false
+    },
+    {
+      "id": 3,
+      "title": "New Math Solution Books Available",
+      "date": "2024-01-08",
+      "preview": "We have added new comprehensive math solution books for classes 6-10...",
+      "content": "We have added new comprehensive math solution books for classes 6-10. These books contain step-by-step solutions for all chapters with detailed explanations. Students can download these books for free from our PDF section. The books are prepared by experienced mathematics teachers following the latest curriculum.",
+      "featured": false
+    }
+  ],
+  "mathSolutions": {
+    "classes": [
+      {
+        "id": 1,
+        "name": "Class 1",
+        "description": "Basic counting and simple arithmetic",
+        "totalChapters": 8,
+        "chapters": [
+          {
+            "id": 1,
+            "name": "Numbers 1-10",
+            "description": "Learn to count and recognize numbers",
+            "problems": [
+              {
+                "id": 1,
+                "question": "Count the objects and write the number",
+                "solution": "Count each object one by one: 1, 2, 3, 4, 5. The answer is 5.",
+                "steps": ["Look at each object", "Count them one by one", "Write the total number"],
+                "difficulty": "easy"
+              },
+              {
+                "id": 2,
+                "question": "Which number comes after 7?",
+                "solution": "The number that comes after 7 is 8. We count: 1, 2, 3, 4, 5, 6, 7, 8.",
+                "steps": ["Remember the counting sequence", "Find 7 in the sequence", "The next number is 8"],
+                "difficulty": "easy"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Simple Addition",
+            "description": "Adding numbers up to 10",
+            "problems": [
+              {
+                "id": 1,
+                "question": "2 + 3 = ?",
+                "solution": "To add 2 + 3, start with 2 and count forward 3 times: 3, 4, 5. So 2 + 3 = 5.",
+                "steps": [
+                  "Start with the first number (2)",
+                  "Count forward by the second number (3)",
+                  "3, 4, 5 - the answer is 5"
+                ],
+                "difficulty": "easy"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Class 2",
+        "description": "Addition, subtraction and basic multiplication",
+        "totalChapters": 10,
+        "chapters": [
+          {
+            "id": 1,
+            "name": "Addition and Subtraction",
+            "description": "Learn to add and subtract numbers up to 100",
+            "problems": [
+              {
+                "id": 1,
+                "question": "15 + 23 = ?",
+                "solution": "To add 15 + 23, we can add the tens first: 10 + 20 = 30, then add the ones: 5 + 3 = 8. So 30 + 8 = 38.",
+                "steps": [
+                  "Separate tens and ones: 15 = 10 + 5, 23 = 20 + 3",
+                  "Add tens: 10 + 20 = 30",
+                  "Add ones: 5 + 3 = 8",
+                  "Combine: 30 + 8 = 38"
+                ],
+                "difficulty": "medium"
+              },
+              {
+                "id": 2,
+                "question": "25 - 12 = ?",
+                "solution": "To subtract 25 - 12, we can subtract the tens first: 20 - 10 = 10, then subtract the ones: 5 - 2 = 3. So 10 + 3 = 13.",
+                "steps": [
+                  "Separate tens and ones: 25 = 20 + 5, 12 = 10 + 2",
+                  "Subtract tens: 20 - 10 = 10",
+                  "Subtract ones: 5 - 2 = 3",
+                  "Combine: 10 + 3 = 13"
+                ],
+                "difficulty": "medium"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Class 3",
+        "description": "Multiplication tables and division basics",
+        "totalChapters": 12,
+        "chapters": [
+          {
+            "id": 1,
+            "name": "Multiplication Tables",
+            "description": "Learn multiplication tables 2-10",
+            "problems": [
+              {
+                "id": 1,
+                "question": "7 × 8 = ?",
+                "solution": "7 × 8 = 56. This means 7 groups of 8: 8 + 8 + 8 + 8 + 8 + 8 + 8 = 56.",
+                "steps": ["Remember: 7 × 8 means 7 groups of 8", "Count: 8, 16, 24, 32, 40, 48, 56", "Answer: 56"],
+                "difficulty": "medium"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Class 4",
+        "description": "Fractions, decimals and geometry basics",
+        "totalChapters": 14,
+        "chapters": [
+          {
+            "id": 1,
+            "name": "Fractions",
+            "description": "Understanding parts of a whole",
+            "problems": [
+              {
+                "id": 1,
+                "question": "What is 1/2 + 1/4?",
+                "solution": "To add fractions, we need a common denominator. 1/2 = 2/4, so 2/4 + 1/4 = 3/4.",
+                "steps": ["Find common denominator: 4", "Convert 1/2 to 2/4", "Add: 2/4 + 1/4 = 3/4"],
+                "difficulty": "medium"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Class 5",
+        "description": "Advanced arithmetic and basic algebra",
+        "totalChapters": 15,
+        "chapters": [
+          {
+            "id": 1,
+            "name": "Decimal Numbers",
+            "description": "Working with decimal numbers",
+            "problems": [
+              {
+                "id": 1,
+                "question": "2.5 + 1.75 = ?",
+                "solution": "Align the decimal points: 2.50 + 1.75 = 4.25",
+                "steps": [
+                  "Write with same decimal places: 2.50 + 1.75",
+                  "Add like whole numbers: 250 + 175 = 425",
+                  "Place decimal point: 4.25"
+                ],
+                "difficulty": "medium"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Class 6",
+        "description": "Integers, ratios and basic geometry",
+        "totalChapters": 16,
+        "chapters": [
+          {
+            "id": 1,
+            "name": "Integers",
+            "description": "Positive and negative numbers",
+            "problems": [
+              {
+                "id": 1,
+                "question": "(-5) + 3 = ?",
+                "solution": "When adding a positive number to a negative number, subtract the smaller absolute value from the larger: 5 - 3 = 2. Since 5 > 3 and 5 is negative, the answer is -2.",
+                "steps": [
+                  "Identify signs: -5 (negative), +3 (positive)",
+                  "Find absolute values: 5 and 3",
+                  "Subtract smaller from larger: 5 - 3 = 2",
+                  "Keep sign of larger absolute value: -2"
+                ],
+                "difficulty": "hard"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Class 7",
+        "description": "Algebra basics and coordinate geometry",
+        "totalChapters": 18,
+        "chapters": [
+          {
+            "id": 1,
+            "name": "Algebraic Expressions",
+            "description": "Working with variables and expressions",
+            "problems": [
+              {
+                "id": 1,
+                "question": "Simplify: 3x + 2x - x",
+                "solution": "Combine like terms: 3x + 2x - x = (3 + 2 - 1)x = 4x",
+                "steps": ["Identify like terms: 3x, 2x, -x", "Add coefficients: 3 + 2 - 1 = 4", "Result: 4x"],
+                "difficulty": "hard"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Class 8",
+        "description": "Linear equations and advanced geometry",
+        "totalChapters": 20,
+        "chapters": [
+          {
+            "id": 1,
+            "name": "Linear Equations",
+            "description": "Solving equations with one variable",
+            "problems": [
+              {
+                "id": 1,
+                "question": "Solve: 2x + 5 = 13",
+                "solution": "Subtract 5 from both sides: 2x = 8. Divide by 2: x = 4",
+                "steps": ["Start with: 2x + 5 = 13", "Subtract 5: 2x = 13 - 5 = 8", "Divide by 2: x = 8 ÷ 2 = 4"],
+                "difficulty": "hard"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Class 9",
+        "description": "Quadratic equations and trigonometry basics",
+        "totalChapters": 22,
+        "chapters": [
+          {
+            "id": 1,
+            "name": "Quadratic Equations",
+            "description": "Solving equations of degree 2",
+            "problems": [
+              {
+                "id": 1,
+                "question": "Solve: x² - 5x + 6 = 0",
+                "solution": "Factor: (x - 2)(x - 3) = 0. So x = 2 or x = 3",
+                "steps": [
+                  "Find factors of 6 that add to -5: -2 and -3",
+                  "Factor: (x - 2)(x - 3) = 0",
+                  "Solve: x - 2 = 0 or x - 3 = 0",
+                  "Solutions: x = 2 or x = 3"
+                ],
+                "difficulty": "hard"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Class 10",
+        "description": "Advanced algebra and coordinate geometry",
+        "totalChapters": 24,
+        "chapters": [
+          {
+            "id": 1,
+            "name": "Coordinate Geometry",
+            "description": "Points, lines and shapes on coordinate plane",
+            "problems": [
+              {
+                "id": 1,
+                "question": "Find the distance between points A(1, 2) and B(4, 6)",
+                "solution": "Use distance formula: d = √[(x₂-x₁)² + (y₂-y₁)²] = √[(4-1)² + (6-2)²] = √[9 + 16] = √25 = 5",
+                "steps": [
+                  "Identify coordinates: A(1,2), B(4,6)",
+                  "Apply distance formula: d = √[(x₂-x₁)² + (y₂-y₁)²]",
+                  "Substitute: d = √[(4-1)² + (6-2)²]",
+                  "Calculate: d = √[9 + 16] = √25 = 5"
+                ],
+                "difficulty": "hard"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "pdfBooks": {
+    "classes": [
+      {
+        "id": 1,
+        "name": "Class 1",
+        "description": "Basic textbooks for primary education",
+        "books": [
+          {
+            "id": 1,
+            "name": "Mathematics Textbook",
+            "subject": "Mathematics",
+            "downloadLink": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms",
+            "size": "8 MB",
+            "pages": 120,
+            "language": "Bengali",
+            "publisher": "NCTB"
+          },
+          {
+            "id": 2,
+            "name": "Bangla Textbook",
+            "subject": "Bangla",
+            "downloadLink": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms",
+            "size": "12 MB",
+            "pages": 150,
+            "language": "Bengali",
+            "publisher": "NCTB"
+          },
+          {
+            "id": 3,
+            "name": "English Textbook",
+            "subject": "English",
+            "downloadLink": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms",
+            "size": "10 MB",
+            "pages": 100,
+            "language": "English",
+            "publisher": "NCTB"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Class 2",
+        "description": "Essential books for second grade students",
+        "books": [
+          {
+            "id": 1,
+            "name": "Mathematics Textbook",
+            "subject": "Mathematics",
+            "downloadLink": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms",
+            "size": "10 MB",
+            "pages": 140,
+            "language": "Bengali",
+            "publisher": "NCTB"
+          },
+          {
+            "id": 2,
+            "name": "Bangla Textbook",
+            "subject": "Bangla",
+            "downloadLink": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms",
+            "size": "14 MB",
+            "pages": 160,
+            "language": "Bengali",
+            "publisher": "NCTB"
+          },
+          {
+            "id": 3,
+            "name": "English Textbook",
+            "subject": "English",
+            "downloadLink": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms",
+            "size": "11 MB",
+            "pages": 110,
+            "language": "English",
+            "publisher": "NCTB"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Class 3",
+        "description": "Core curriculum books for third grade",
+        "books": [
+          {
+            "id": 1,
+            "name": "Mathematics Textbook",
+            "subject": "Mathematics",
+            "downloadLink": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms",
+            "size": "12 MB",
+            "pages": 160,
+            "language": "Bengali",
+            "publisher": "NCTB"
+          },
+          {
+            "id": 2,
+            "name": "Bangla Textbook",
+            "subject": "Bangla",
+            "downloadLink": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms",
+            "size": "16 MB",
+            "pages": 180,
+            "language": "Bengali",
+            "publisher": "NCTB"
+          },
+          {
+            "id": 3,
+            "name": "English Textbook",
+            "subject": "English",
+            "downloadLink": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms",
+            "size": "13 MB",
+            "pages": 120,
+            "language": "English",
+            "publisher": "NCTB"
+          },
+          {
+            "id": 4,
+            "name": "Science Textbook",
+            "subject": "Science",
+            "downloadLink": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms",
+            "size": "18 MB",
+            "pages": 140,
+            "language": "Bengali",
+            "publisher": "NCTB"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Class 4",
+        "description": "Comprehensive textbooks for fourth grade",
+        "books": [
+          {
+            "id": 1,
+            "name": "Mathematics Textbook",
+            "subject": "Mathematics",
+            "downloadLink": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms",
+            "size": "14 MB",
+            "pages": 180,
+            "language": "Bengali",
+            "publisher": "NCTB"
+          },
+          {
+            "id": 2,
+            "name": "Bangla Textbook",
+            "subject": "Bangla",
+            "downloadLink": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms",
+            "size": "18 MB",
+            "pages": 200,
+            "language": "Bengali",
+            "publisher": "NCTB"
+          },
+          {
+            "id": 3,
+            "name": "English Textbook",
+            "subject": "English",
+            "downloadLink": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms",
+            "size": "15 MB",
+            "pages": 130,
+            "language": "English",
+            "publisher": "NCTB"
+          },
+          {
+            "id": 4,
+            "name": "Science Textbook",
+            "subject": "Science",
+            "downloadLink": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms",
+            "size": "20 MB",
+            "pages": 160,
+            "language": "Bengali",
+            "publisher": "NCTB"
+          },
+          {
+            "id": 5,
+            "name": "Social Studies Textbook",
+            "subject": "Social Studies",
+            "downloadLink": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms",
+            "size": "16 MB",
+            "pages": 140,
+            "language": "Bengali",
+            "publisher": "NCTB"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Class 5",
+        "description": "Primary completion level textbooks",
+        "books": [
+          {
+            "id": 1,
+            "name": "Mathematics Textbook",
+            "subject": "Mathematics",
+            "downloadLink": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms",
+            "size": "16 MB",
+            "pages": 200,
+            "language": "Bengali",
+            "publisher": "NCTB"
+          },
+          {
+            "id": 2,
+            "name": "Bangla Textbook",
+            "subject": "Bangla",
+            "downloadLink": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms",
+            "size": "20 MB",
+            "pages": 220,
+            "language": "Bengali",
+            "publisher": "NCTB"
+          },
+          {
+            "id": 3,
+            "name": "English Textbook",
+            "subject": "English",
+            "downloadLink": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms",
+            "size": "17 MB",
+            "pages": 150,
+            "language": "English",
+            "publisher": "NCTB"
+          },
+          {
+            "id": 4,
+            "name": "Science Textbook",
+            "subject": "Science",
+            "downloadLink": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms",
+            "size": "22 MB",
+            "pages": 180,
+            "language": "Bengali",
+            "publisher": "NCTB"
+          },
+          {
+            "id": 5,
+            "name": "Social Studies Textbook",
+            "subject": "Social Studies",
+            "downloadLink": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms",
+            "size": "18 MB",
+            "pages": 160,
+            "language": "Bengali",
+            "publisher": "NCTB"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Class 6",
+        "description": "Secondary level foundation books",
+        "books": [
+          {
+            "id": 1,
+            "name": "Mathematics Textbook",
+            "subject": "Mathematics",
+            "downloadLink": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms",
+            "size": "18 MB",
+            "pages": 220,
+            "language": "Bengali",
+            "publisher": "NCTB"
+          },
+          {
+            "id": 2,
+            "name": "Bangla Textbook",
+            "subject": "Bangla",
+            "downloadLink": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms",
+            "size": "22 MB",
+            "pages": 240,
+            "language": "Bengali",
+            "publisher": "NCTB"
+          },
+          {
+            "id": 3,
+            "name": "English Textbook",
+            "subject": "English",
+            "downloadLink": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms",
+            "size": "19 MB",
+            "pages": 170,
+            "language": "English",
+            "publisher": "NCTB"
+          },
+          {
+            "id": 4,
+            "name": "Science Textbook",
+            "subject": "Science",
+            "downloadLink": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms",
+            "size": "24 MB",
+            "pages": 200,
+            "language": "Bengali",
+            "publisher": "NCTB"
+          },
+          {
+            "id": 5,
+            "name": "Social Studies Textbook",
+            "subject": "Social Studies",
+            "downloadLink": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms",
+            "size": "20 MB",
+            "pages": 180,
+            "language": "Bengali",
+            "publisher": "NCTB"
+          },
+          {
+            "id": 6,
+            "name": "Islam & Moral Education",
+            "subject": "Religion",
+            "downloadLink": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms",
+            "size": "15 MB",
+            "pages": 120,
+            "language": "Bengali",
+            "publisher": "NCTB"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Class 7",
+        "description": "Junior secondary curriculum books",
+        "books": [
+          {
+            "id": 1,
+            "name": "Mathematics Textbook",
+            "subject": "Mathematics",
+            "downloadLink": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms",
+            "size": "20 MB",
+            "pages": 240,
+            "language": "Bengali",
+            "publisher": "NCTB"
+          },
+          {
+            "id": 2,
+            "name": "Bangla Textbook",
+            "subject": "Bangla",
+            "downloadLink": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms",
+            "size": "24 MB",
+            "pages": 260,
+            "language": "Bengali",
+            "publisher": "NCTB"
+          },
+          {
+            "id": 3,
+            "name": "English Textbook",
+            "subject": "English",
+            "downloadLink": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms",
+            "size": "21 MB",
+            "pages": 190,
+            "language": "English",
+            "publisher": "NCTB"
+          },
+          {
+            "id": 4,
+            "name": "Science Textbook",
+            "subject": "Science",
+            "downloadLink": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms",
+            "size": "26 MB",
+            "pages": 220,
+            "language": "Bengali",
+            "publisher": "NCTB"
+          },
+          {
+            "id": 5,
+            "name": "Social Studies Textbook",
+            "subject": "Social Studies",
+            "downloadLink": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms",
+            "size": "22 MB",
+            "pages": 200,
+            "language": "Bengali",
+            "publisher": "NCTB"
+          },
+          {
+            "id": 6,
+            "name": "Islam & Moral Education",
+            "subject": "Religion",
+            "downloadLink": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms",
+            "size": "17 MB",
+            "pages": 140,
+            "language": "Bengali",
+            "publisher": "NCTB"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Class 8",
+        "description": "Advanced secondary level textbooks",
+        "books": [
+          {
+            "id": 1,
+            "name": "Mathematics Textbook",
+            "subject": "Mathematics",
+            "downloadLink": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms",
+            "size": "22 MB",
+            "pages": 260,
+            "language": "Bengali",
+            "publisher": "NCTB"
+          },
+          {
+            "id": 2,
+            "name": "Bangla Textbook",
+            "subject": "Bangla",
+            "downloadLink": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms",
+            "size": "26 MB",
+            "pages": 280,
+            "language": "Bengali",
+            "publisher": "NCTB"
+          },
+          {
+            "id": 3,
+            "name": "English Textbook",
+            "subject": "English",
+            "downloadLink": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms",
+            "size": "23 MB",
+            "pages": 210,
+            "language": "English",
+            "publisher": "NCTB"
+          },
+          {
+            "id": 4,
+            "name": "General Science",
+            "subject": "Science",
+            "downloadLink": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms",
+            "size": "28 MB",
+            "pages": 240,
+            "language": "Bengali",
+            "publisher": "NCTB"
+          },
+          {
+            "id": 5,
+            "name": "Bangladesh & Global Studies",
+            "subject": "Social Studies",
+            "downloadLink": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms",
+            "size": "24 MB",
+            "pages": 220,
+            "language": "Bengali",
+            "publisher": "NCTB"
+          },
+          {
+            "id": 6,
+            "name": "Islam & Moral Education",
+            "subject": "Religion",
+            "downloadLink": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms",
+            "size": "19 MB",
+            "pages": 160,
+            "language": "Bengali",
+            "publisher": "NCTB"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Class 9",
+        "description": "SSC preparation level textbooks",
+        "books": [
+          {
+            "id": 1,
+            "name": "Mathematics Textbook",
+            "subject": "Mathematics",
+            "downloadLink": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms",
+            "size": "25 MB",
+            "pages": 300,
+            "language": "Bengali",
+            "publisher": "NCTB"
+          },
+          {
+            "id": 2,
+            "name": "Bangla Textbook",
+            "subject": "Bangla",
+            "downloadLink": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms",
+            "size": "28 MB",
+            "pages": 320,
+            "language": "Bengali",
+            "publisher": "NCTB"
+          },
+          {
+            "id": 3,
+            "name": "English Textbook",
+            "subject": "English",
+            "downloadLink": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms",
+            "size": "25 MB",
+            "pages": 230,
+            "language": "English",
+            "publisher": "NCTB"
+          },
+          {
+            "id": 4,
+            "name": "Physics Textbook",
+            "subject": "Physics",
+            "downloadLink": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms",
+            "size": "30 MB",
+            "pages": 250,
+            "language": "Bengali",
+            "publisher": "NCTB"
+          },
+          {
+            "id": 5,
+            "name": "Chemistry Textbook",
+            "subject": "Chemistry",
+            "downloadLink": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms",
+            "size": "28 MB",
+            "pages": 240,
+            "language": "Bengali",
+            "publisher": "NCTB"
+          },
+          {
+            "id": 6,
+            "name": "Biology Textbook",
+            "subject": "Biology",
+            "downloadLink": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms",
+            "size": "32 MB",
+            "pages": 280,
+            "language": "Bengali",
+            "publisher": "NCTB"
+          },
+          {
+            "id": 7,
+            "name": "Higher Mathematics",
+            "subject": "Higher Mathematics",
+            "downloadLink": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms",
+            "size": "27 MB",
+            "pages": 260,
+            "language": "Bengali",
+            "publisher": "NCTB"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Class 10",
+        "description": "SSC final year comprehensive textbooks",
+        "books": [
+          {
+            "id": 1,
+            "name": "Mathematics Textbook",
+            "subject": "Mathematics",
+            "downloadLink": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms",
+            "size": "27 MB",
+            "pages": 320,
+            "language": "Bengali",
+            "publisher": "NCTB"
+          },
+          {
+            "id": 2,
+            "name": "Bangla Textbook",
+            "subject": "Bangla",
+            "downloadLink": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms",
+            "size": "30 MB",
+            "pages": 340,
+            "language": "Bengali",
+            "publisher": "NCTB"
+          },
+          {
+            "id": 3,
+            "name": "English Textbook",
+            "subject": "English",
+            "downloadLink": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms",
+            "size": "27 MB",
+            "pages": 250,
+            "language": "English",
+            "publisher": "NCTB"
+          },
+          {
+            "id": 4,
+            "name": "Physics Textbook",
+            "subject": "Physics",
+            "downloadLink": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms",
+            "size": "32 MB",
+            "pages": 270,
+            "language": "Bengali",
+            "publisher": "NCTB"
+          },
+          {
+            "id": 5,
+            "name": "Chemistry Textbook",
+            "subject": "Chemistry",
+            "downloadLink": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms",
+            "size": "30 MB",
+            "pages": 260,
+            "language": "Bengali",
+            "publisher": "NCTB"
+          },
+          {
+            "id": 6,
+            "name": "Biology Textbook",
+            "subject": "Biology",
+            "downloadLink": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms",
+            "size": "34 MB",
+            "pages": 300,
+            "language": "Bengali",
+            "publisher": "NCTB"
+          },
+          {
+            "id": 7,
+            "name": "Higher Mathematics",
+            "subject": "Higher Mathematics",
+            "downloadLink": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms",
+            "size": "29 MB",
+            "pages": 280,
+            "language": "Bengali",
+            "publisher": "NCTB"
+          },
+          {
+            "id": 8,
+            "name": "ICT Textbook",
+            "subject": "ICT",
+            "downloadLink": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms",
+            "size": "25 MB",
+            "pages": 200,
+            "language": "Bengali",
+            "publisher": "NCTB"
+          }
+        ]
+      }
+    ]
+  },
+  "products": [
+    {
+      "id": 1,
+      "name": "Complete Math Solution Guide",
+      "price": 500,
+      "originalPrice": 700,
+      "discount": 29,
+      "image": "/placeholder.svg?height=300&width=300",
+      "description": "Comprehensive math solution guide for HSC students with step-by-step explanations",
+      "fbLink": "https://facebook.com/mathmentorbd",
+      "category": "Study Guide",
+      "rating": 4.8,
+      "reviews": 156,
+      "features": ["Step-by-step solutions", "All chapters covered", "Expert explanations", "Practice problems"]
+    },
+    {
+      "id": 2,
+      "name": "Physics Formula Handbook",
+      "price": 300,
+      "originalPrice": 400,
+      "discount": 25,
+      "image": "/placeholder.svg?height=300&width=300",
+      "description": "Essential physics formulas and concepts for quick reference",
+      "fbLink": "https://facebook.com/mathmentorbd",
+      "category": "Reference Book",
+      "rating": 4.6,
+      "reviews": 89,
+      "features": ["All important formulas", "Quick reference", "Concept explanations", "Exam focused"]
+    },
+    {
+      "id": 3,
+      "name": "Chemistry Lab Manual",
+      "price": 450,
+      "originalPrice": 600,
+      "discount": 25,
+      "image": "/placeholder.svg?height=300&width=300",
+      "description": "Complete chemistry lab manual with practical experiments and procedures",
+      "fbLink": "https://facebook.com/mathmentorbd",
+      "category": "Lab Manual",
+      "rating": 4.7,
+      "reviews": 124,
+      "features": ["Practical experiments", "Safety guidelines", "Result analysis", "Lab techniques"]
+    },
+    {
+      "id": 4,
+      "name": "English Grammar Mastery",
+      "price": 350,
+      "originalPrice": 500,
+      "discount": 30,
+      "image": "/placeholder.svg?height=300&width=300",
+      "description": "Master English grammar with comprehensive rules and practice exercises",
+      "fbLink": "https://facebook.com/mathmentorbd",
+      "category": "Language",
+      "rating": 4.5,
+      "reviews": 203,
+      "features": ["Grammar rules", "Practice exercises", "Common mistakes", "Writing tips"]
+    },
+    {
+      "id": 5,
+      "name": "Biology Diagram Collection",
+      "price": 400,
+      "originalPrice": 550,
+      "discount": 27,
+      "image": "/placeholder.svg?height=300&width=300",
+      "description": "Comprehensive collection of biology diagrams with detailed explanations",
+      "fbLink": "https://facebook.com/mathmentorbd",
+      "category": "Reference Book",
+      "rating": 4.9,
+      "reviews": 178,
+      "features": ["Detailed diagrams", "Clear explanations", "Exam oriented", "High quality images"]
+    },
+    {
+      "id": 6,
+      "name": "HSC Preparation Kit",
+      "price": 800,
+      "originalPrice": 1200,
+      "discount": 33,
+      "image": "/placeholder.svg?height=300&width=300",
+      "description": "Complete HSC preparation kit with all subjects covered",
+      "fbLink": "https://facebook.com/mathmentorbd",
+      "category": "Bundle",
+      "rating": 4.8,
+      "reviews": 267,
+      "features": ["All subjects", "Question banks", "Model tests", "Study schedule"]
+    }
+  ],
+  "blogPosts": [
+    {
+      "id": 1,
+      "title": "How to Prepare for HSC Mathematics",
+      "slug": "how-to-prepare-for-hsc-mathematics",
+      "excerpt": "Essential tips and strategies for excelling in HSC mathematics examination. Learn the best study techniques and time management skills.",
+      "content": "Mathematics is one of the most important subjects in HSC. Here are some proven strategies to excel in your HSC mathematics examination:\n\n## 1. Understand the Syllabus\nFirst, thoroughly understand the HSC mathematics syllabus. Know which topics carry more marks and prioritize accordingly.\n\n## 2. Practice Regularly\nMathematics requires consistent practice. Solve at least 5-10 problems daily from different chapters.\n\n## 3. Focus on Weak Areas\nIdentify your weak topics and spend extra time on them. Don't ignore any chapter completely.\n\n## 4. Time Management\nPractice solving problems within time limits. This will help you manage time effectively during the actual exam.\n\n## 5. Use Quality Resources\nUse good textbooks and reference materials. MathMentorBD provides excellent resources for HSC preparation.\n\n## Conclusion\nWith proper planning and consistent effort, you can achieve excellent results in HSC mathematics. Stay focused and keep practicing!",
+      "author": "MathMentor Team",
+      "date": "2024-01-12",
+      "image": "/placeholder.svg?height=400&width=600",
+      "tags": ["HSC", "Mathematics", "Study Tips", "Exam Preparation"],
+      "readTime": "5 min read",
+      "category": "Study Tips"
+    },
+    {
+      "id": 2,
+      "title": "Top 10 Study Techniques for Better Learning",
+      "slug": "top-10-study-techniques-for-better-learning",
+      "excerpt": "Discover the most effective study techniques that can help you learn faster and retain information longer.",
+      "content": "Effective studying is not about spending more hours with books, but about using the right techniques. Here are the top 10 study techniques that can transform your learning experience:\n\n## 1. Active Recall\nTest yourself regularly instead of just re-reading notes. This strengthens memory and understanding.\n\n## 2. Spaced Repetition\nReview material at increasing intervals. This technique helps move information from short-term to long-term memory.\n\n## 3. Pomodoro Technique\nStudy in 25-minute focused sessions followed by 5-minute breaks. This maintains concentration and prevents burnout.\n\n## 4. Mind Mapping\nCreate visual representations of information. This helps in understanding connections between concepts.\n\n## 5. Teaching Others\nExplain concepts to friends or family. Teaching forces you to understand the material deeply.\n\n## 6. Practice Testing\nTake practice tests regularly. This identifies knowledge gaps and improves exam performance.\n\n## 7. Elaborative Interrogation\nAsk yourself 'why' and 'how' questions about the material. This deepens understanding.\n\n## 8. Interleaving\nMix different topics in one study session instead of focusing on one subject for hours.\n\n## 9. Dual Coding\nCombine verbal and visual information. Use diagrams, charts, and images alongside text.\n\n## 10. Sleep and Exercise\nMaintain good sleep habits and regular exercise. A healthy body supports a healthy mind.\n\n## Conclusion\nImplement these techniques gradually and find what works best for you. Remember, effective studying is a skill that improves with practice.",
+      "author": "Dr. Sarah Ahmed",
+      "date": "2024-01-10",
+      "image": "/placeholder.svg?height=400&width=600",
+      "tags": ["Study Techniques", "Learning", "Productivity", "Education"],
+      "readTime": "7 min read",
+      "category": "Study Tips"
+    },
+    {
+      "id": 3,
+      "title": "Understanding the New Education Curriculum in Bangladesh",
+      "slug": "understanding-new-education-curriculum-bangladesh",
+      "excerpt": "A comprehensive guide to the latest changes in Bangladesh's education curriculum and how it affects students.",
+      "content": "Bangladesh has recently introduced significant changes to its education curriculum. Here's what students and parents need to know:\n\n## Key Changes in the New Curriculum\n\n### 1. Competency-Based Learning\nThe new curriculum focuses on developing competencies rather than just memorizing facts. Students will learn practical skills alongside theoretical knowledge.\n\n### 2. Continuous Assessment\nInstead of relying solely on final exams, the new system includes continuous assessment throughout the year.\n\n### 3. Reduced Academic Pressure\nThe curriculum aims to reduce academic pressure on students by making learning more enjoyable and practical.\n\n### 4. Technology Integration\nDigital literacy and technology skills are now integral parts of the curriculum.\n\n## Impact on Different Levels\n\n### Primary Level (Classes 1-5)\n- More play-based learning\n- Focus on basic literacy and numeracy\n- Introduction to creative subjects\n\n### Secondary Level (Classes 6-10)\n- Balanced approach between theory and practice\n- Project-based learning\n- Career guidance introduction\n\n### Higher Secondary Level (Classes 11-12)\n- Specialization in chosen streams\n- Research-based learning\n- University preparation\n\n## How to Adapt to the Changes\n\n1. **Stay Updated**: Keep track of curriculum updates from official sources\n2. **Embrace Technology**: Develop digital skills alongside traditional subjects\n3. **Focus on Understanding**: Prioritize conceptual understanding over memorization\n4. **Develop Soft Skills**: Communication, critical thinking, and problem-solving are now more important\n\n## Conclusion\nThe new curriculum represents a positive shift towards holistic education. Students should embrace these changes and adapt their study methods accordingly.",
+      "author": "Prof. Rahman Khan",
+      "date": "2024-01-08",
+      "image": "/placeholder.svg?height=400&width=600",
+      "tags": ["Curriculum", "Education Policy", "Bangladesh", "Learning"],
+      "readTime": "6 min read",
+      "category": "Education News"
+    },
+    {
+      "id": 4,
+      "title": "Career Guidance: Choosing the Right Stream After SSC",
+      "slug": "career-guidance-choosing-right-stream-after-ssc",
+      "excerpt": "Complete guide to help SSC graduates choose the right academic stream for their future career goals.",
+      "content": "Choosing the right stream after SSC is one of the most important decisions in a student's life. Here's a comprehensive guide to help you make the right choice:\n\n## Available Streams\n\n### Science Stream\n**Subjects**: Physics, Chemistry, Biology/Mathematics, English, Bangla\n**Career Options**: \n- Engineering\n- Medical\n- Research\n- Technology\n- Pharmacy\n\n**Best For**: Students interested in problem-solving, research, and technical fields\n\n### Commerce/Business Studies\n**Subjects**: Accounting, Management, Economics, English, Bangla\n**Career Options**:\n- Business Administration\n- Banking\n- Finance\n- Marketing\n- Entrepreneurship\n\n**Best For**: Students interested in business, finance, and management\n\n### Humanities/Arts\n**Subjects**: History, Geography, Civics, Psychology, English, Bangla\n**Career Options**:\n- Law\n- Journalism\n- Social Work\n- Teaching\n- Civil Service\n\n**Best For**: Students interested in social sciences, literature, and public service\n\n## Factors to Consider\n\n### 1. Interest and Passion\nChoose a stream that aligns with your interests. Passion drives success more than anything else.\n\n### 2. Academic Performance\nConsider your strengths in different subjects. Choose a stream where you can excel.\n\n### 3. Career Goals\nThink about your long-term career aspirations and choose accordingly.\n\n### 4. Market Demand\nResearch job market trends and future opportunities in different fields.\n\n### 5. Family Support\nDiscuss with family members and consider their guidance, but make your own decision.\n\n## Tips for Making the Right Choice\n\n1. **Self-Assessment**: Understand your strengths, weaknesses, and interests\n2. **Career Counseling**: Seek guidance from career counselors\n3. **Research**: Learn about different career paths and their requirements\n4. **Talk to Professionals**: Connect with people working in fields you're interested in\n5. **Consider Alternatives**: Keep backup options in mind\n\n## Common Mistakes to Avoid\n\n- Following friends without considering your own interests\n- Choosing based on social prestige alone\n- Ignoring your academic strengths\n- Not researching career prospects\n- Making decisions under pressure\n\n## Conclusion\nTake time to make this important decision. Remember, there's no 'wrong' choice if you're passionate and willing to work hard. Every stream offers excellent opportunities for those who are dedicated.",
+      "author": "Career Counselor Team",
+      "date": "2024-01-05",
+      "image": "/placeholder.svg?height=400&width=600",
+      "tags": ["Career Guidance", "SSC", "Stream Selection", "Future Planning"],
+      "readTime": "8 min read",
+      "category": "Career Guidance"
+    },
+    {
+      "id": 5,
+      "title": "Mental Health Tips for Students During Exam Season",
+      "slug": "mental-health-tips-students-exam-season",
+      "excerpt": "Essential mental health strategies to help students manage stress and anxiety during examination periods.",
+      "content": "Exam season can be overwhelming for students. Here are essential mental health tips to help you stay balanced and perform your best:\n\n## Understanding Exam Stress\n\nExam stress is normal, but excessive stress can harm both your mental health and academic performance. Recognizing the signs early is crucial:\n\n### Signs of Excessive Stress:\n- Difficulty sleeping\n- Loss of appetite\n- Constant worry\n- Difficulty concentrating\n- Physical symptoms (headaches, stomach issues)\n\n## Effective Stress Management Strategies\n\n### 1. Create a Realistic Study Schedule\n- Break study sessions into manageable chunks\n- Include regular breaks\n- Set achievable daily goals\n- Allow time for revision\n\n### 2. Practice Relaxation Techniques\n- **Deep Breathing**: 4-7-8 breathing technique\n- **Meditation**: Even 10 minutes daily can help\n- **Progressive Muscle Relaxation**: Tense and release muscle groups\n- **Mindfulness**: Stay present and avoid overthinking\n\n### 3. Maintain Physical Health\n- **Regular Exercise**: Even a 20-minute walk helps\n- **Healthy Diet**: Avoid excessive caffeine and sugar\n- **Adequate Sleep**: 7-8 hours per night\n- **Stay Hydrated**: Drink plenty of water\n\n### 4. Social Support\n- Talk to friends and family\n- Join study groups\n- Don't isolate yourself\n- Seek help when needed\n\n## During the Exam\n\n### Before the Exam:\n- Arrive early but not too early\n- Bring all necessary materials\n- Practice positive self-talk\n- Use relaxation techniques\n\n### During the Exam:\n- Read instructions carefully\n- Start with easier questions\n- Manage your time effectively\n- Stay calm if you don't know an answer\n\n### After the Exam:\n- Avoid discussing answers with others\n- Celebrate completing the exam\n- Focus on the next exam, not past ones\n- Reward yourself for your efforts\n\n## When to Seek Professional Help\n\nConsider professional help if you experience:\n- Persistent anxiety or depression\n- Panic attacks\n- Thoughts of self-harm\n- Complete inability to study\n- Severe physical symptoms\n\n## Building Long-term Resilience\n\n1. **Develop Coping Skills**: Learn healthy ways to handle stress\n2. **Build Confidence**: Focus on your strengths and past successes\n3. **Maintain Perspective**: Remember that exams are important but not everything\n4. **Practice Self-Compassion**: Be kind to yourself during difficult times\n\n## Resources for Help\n\n- School counselors\n- Mental health professionals\n- Helplines and online resources\n- Support groups\n- Trusted friends and family\n\n## Conclusion\n\nRemember, your mental health is more important than any exam. Take care of yourself, seek help when needed, and remember that this stressful period is temporary. You have the strength to get through this!",
+      "author": "Dr. Mental Health Team",
+      "date": "2024-01-03",
+      "image": "/placeholder.svg?height=400&width=600",
+      "tags": ["Mental Health", "Exam Stress", "Student Wellness", "Stress Management"],
+      "readTime": "9 min read",
+      "category": "Health & Wellness"
+    }
+  ]
+}

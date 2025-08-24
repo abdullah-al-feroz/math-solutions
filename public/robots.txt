@@ -9,7 +9,7 @@ Disallow: /admin/
 Disallow: /api/
 
 # Allow important pages
-Allow: /math-solutions/
+Allow: /math-solution/
 Allow: /pdf-books/
 Allow: /result/
 Allow: /college-admission/

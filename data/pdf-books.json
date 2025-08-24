@@ -1,0 +1,170 @@
+[
+  {
+    "class": 1,
+    "className": "প্রথম শ্রেণি",
+    "books": [
+      {
+        "id": 1,
+        "name": "বাংলা বই",
+        "subject": "বাংলা",
+        "downloadLink": "https://drive.google.com/file/d/1example1/view",
+        "size": "5.2 MB",
+        "pages": 120,
+        "description": "প্রথম শ্রেণির বাংলা পাঠ্যবই"
+      },
+      {
+        "id": 2,
+        "name": "গণিত বই",
+        "subject": "গণিত",
+        "downloadLink": "https://drive.google.com/file/d/1example2/view",
+        "size": "3.8 MB",
+        "pages": 95,
+        "description": "প্রথম শ্রেণির গণিত পাঠ্যবই"
+      },
+      {
+        "id": 3,
+        "name": "ইংরেজি বই",
+        "subject": "ইংরেজি",
+        "downloadLink": "https://drive.google.com/file/d/1example3/view",
+        "size": "4.1 MB",
+        "pages": 110,
+        "description": "প্রথম শ্রেণির ইংরেজি পাঠ্যবই"
+      }
+    ]
+  },
+  {
+    "class": 6,
+    "className": "ষষ্ঠ শ্রেণি",
+    "books": [
+      {
+        "id": 1,
+        "name": "বাংলা সাহিত্য",
+        "subject": "বাংলা",
+        "downloadLink": "https://drive.google.com/file/d/6example1/view",
+        "size": "8.5 MB",
+        "pages": 180,
+        "description": "ষষ্ঠ শ্রেণির বাংলা সাহিত্য পাঠ্যবই"
+      },
+      {
+        "id": 2,
+        "name": "গণিত",
+        "subject": "গণিত",
+        "downloadLink": "https://drive.google.com/file/d/6example2/view",
+        "size": "6.2 MB",
+        "pages": 150,
+        "description": "ষষ্ঠ শ্রেণির গণিত পাঠ্যবই"
+      },
+      {
+        "id": 3,
+        "name": "ইংরেজি",
+        "subject": "ইংরেজি",
+        "downloadLink": "https://drive.google.com/file/d/6example3/view",
+        "size": "7.1 MB",
+        "pages": 165,
+        "description": "ষষ্ঠ শ্রেণির ইংরেজি পাঠ্যবই"
+      },
+      {
+        "id": 4,
+        "name": "বিজ্ঞান",
+        "subject": "বিজ্ঞান",
+        "downloadLink": "https://drive.google.com/file/d/6example4/view",
+        "size": "9.3 MB",
+        "pages": 200,
+        "description": "ষষ্ঠ শ্রেণির বিজ্ঞান পাঠ্যবই"
+      },
+      {
+        "id": 5,
+        "name": "সামাজিক বিজ্ঞান",
+        "subject": "সামাজিক বিজ্ঞান",
+        "downloadLink": "https://drive.google.com/file/d/6example5/view",
+        "size": "7.8 MB",
+        "pages": 175,
+        "description": "ষষ্ঠ শ্রেণির সামাজিক বিজ্ঞান পাঠ্যবই"
+      }
+    ]
+  },
+  {
+    "class": 9,
+    "className": "নবম শ্রেণি",
+    "books": [
+      {
+        "id": 1,
+        "name": "বাংলা সাহিত্য",
+        "subject": "বাংলা",
+        "downloadLink": "https://drive.google.com/file/d/9example1/view",
+        "size": "12.5 MB",
+        "pages": 250,
+        "description": "নবম শ্রেণির বাংলা সাহিত্য পাঠ্যবই"
+      },
+      {
+        "id": 2,
+        "name": "উচ্চতর গণিত",
+        "subject": "গণিত",
+        "downloadLink": "https://drive.google.com/file/d/9example2/view",
+        "size": "10.8 MB",
+        "pages": 220,
+        "description": "নবম শ্রেণির উচ্চতর গণিত পাঠ্যবই"
+      },
+      {
+        "id": 3,
+        "name": "পদার্থবিজ্ঞান",
+        "subject": "পদার্থবিজ্ঞান",
+        "downloadLink": "https://drive.google.com/file/d/9example3/view",
+        "size": "11.2 MB",
+        "pages": 230,
+        "description": "নবম শ্রেণির পদার্থবিজ্ঞান পাঠ্যবই"
+      },
+      {
+        "id": 4,
+        "name": "রসায়ন",
+        "subject": "রসায়ন",
+        "downloadLink": "https://drive.google.com/file/d/9example4/view",
+        "size": "9.7 MB",
+        "pages": 210,
+        "description": "নবম শ্রেণির রসায়ন পাঠ্যবই"
+      },
+      {
+        "id": 5,
+        "name": "জীববিজ্ঞান",
+        "subject": "জীববিজ্ঞান",
+        "downloadLink": "https://drive.google.com/file/d/9example5/view",
+        "size": "13.1 MB",
+        "pages": 280,
+        "description": "নবম শ্রেণির জীববিজ্ঞান পাঠ্যবই"
+      }
+    ]
+  },
+  {
+    "class": 10,
+    "className": "দশম শ্রেণি",
+    "books": [
+      {
+        "id": 1,
+        "name": "বাংলা সাহিত্য",
+        "subject": "বাংলা",
+        "downloadLink": "https://drive.google.com/file/d/10example1/view",
+        "size": "13.2 MB",
+        "pages": 260,
+        "description": "দশম শ্রেণির বাংলা সাহিত্য পাঠ্যবই"
+      },
+      {
+        "id": 2,
+        "name": "উচ্চতর গণিত",
+        "subject": "গণিত",
+        "downloadLink": "https://drive.google.com/file/d/10example2/view",
+        "size": "11.5 MB",
+        "pages": 240,
+        "description": "দশম শ্রেণির উচ্চতর গণিত পাঠ্যবই"
+      },
+      {
+        "id": 3,
+        "name": "পদার্থবিজ্ঞান",
+        "subject": "পদার্থবিজ্ঞান",
+        "downloadLink": "https://drive.google.com/file/d/10example3/view",
+        "size": "12.1 MB",
+        "pages": 250,
+        "description": "দশম শ্রেণির পদার্থবিজ্ঞান পাঠ্যবই"
+      }
+    ]
+  }
+]

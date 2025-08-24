@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "name": "ঢাকা কলেজ",
+    "type": "সরকারি",
+    "location": "ঢাকা",
+    "established": "১৮৪১",
+    "description": "বাংলাদেশের অন্যতম প্রাচীন ও ঐতিহ্যবাহী শিক্ষা প্রতিষ্ঠান।",
+    "subjects": ["বিজ্ঞান", "মানবিক", "ব্যবসায় শিক্ষা"],
+    "admissionRequirements": {
+      "science": "এসএসসিতে ন্যূনতম জিপিএ ৫.০০ (গণিত ও বিজ্ঞানে A গ্রেড)",
+      "humanities": "এসএসসিতে ন্যূনতম জিপিএ ৪.০০",
+      "business": "এসএসসিতে ন্যূনতম জিপিএ ৪.৫০"
+    },
+    "admissionProcess": ["অনলাইনে আবেদন", "ভর্তি পরীক্ষা", "মেধা তালিকা প্রকাশ", "ভর্তি নিশ্চিতকরণ"],
+    "fees": {
+      "admission": 500,
+      "monthly": 200,
+      "session": 1000
+    },
+    "facilities": ["লাইব্রেরি", "বিজ্ঞানাগার", "কম্পিউটার ল্যাব", "খেলার মাঠ"],
+    "website": "https://dhakacollege.edu.bd",
+    "contact": {
+      "phone": "02-9661920",
+      "email": "info@dhakacollege.edu.bd",
+      "address": "কার্জন হল, ঢাকা-১০০০"
+    }
+  },
+  {
+    "id": 2,
+    "name": "নটর ডেম কলেজ",
+    "type": "বেসরকারি",
+    "location": "ঢাকা",
+    "established": "১৯৪৯",
+    "description": "উচ্চ মানের শিক্ষার জন্য বিখ্যাত ক্যাথলিক মিশনারি কলেজ।",
+    "subjects": ["বিজ্ঞান", "মানবিক", "ব্যবসায় শিক্ষা"],
+    "admissionRequirements": {
+      "science": "এসএসসিতে ন্যূনতম জিপিএ ৫.০০ (সকল বিষয়ে A গ্রেড)",
+      "humanities": "এসএসসিতে ন্যূনতম জিপিএ ৪.৫০",
+      "business": "এসএসসিতে ন্যূনতম জিপিএ ৪.৮০"
+    },
+    "admissionProcess": ["অনলাইনে আবেদন", "লিখিত পরীক্ষা", "মৌখিক পরীক্ষা", "চূড়ান্ত নির্বাচন"],
+    "fees": {
+      "admission": 1000,
+      "monthly": 800,
+      "session": 5000
+    },
+    "facilities": ["আধুনিক লাইব্রেরি", "বিজ্ঞানাগার", "অডিটোরিয়াম", "হোস্টেল"],
+    "website": "https://ndc.edu.bd",
+    "contact": {
+      "phone": "02-9673251",
+      "email": "admission@ndc.edu.bd",
+      "address": "মতিঝিল, ঢাকা-১০০০"
+    }
+  },
+  {
+    "id": 3,
+    "name": "রাজশাহী কলেজ",
+    "type": "সরকারি",
+    "location": "রাজশাহী",
+    "established": "১৮৭৩",
+    "description": "উত্তরবঙ্গের অন্যতম প্রাচীন ও মর্যাদাপূর্ণ কলেজ।",
+    "subjects": ["বিজ্ঞান", "মানবিক", "ব্যবসায় শিক্ষা"],
+    "admissionRequirements": {
+      "science": "এসএসসিতে ন্যূনতম জিপিএ ৪.৮০",
+      "humanities": "এসএসসিতে ন্যূনতম জিপিএ ৩.৮০",
+      "business": "এসএসসিতে ন্যূনতম জিপিএ ৪.২০"
+    },
+    "admissionProcess": ["অনলাইনে আবেদন", "ভর্তি পরীক্ষা", "মেধা তালিকা", "ভর্তি সম্পন্ন"],
+    "fees": {
+      "admission": 400,
+      "monthly": 150,
+      "session": 800
+    },
+    "facilities": ["কেন্দ্রীয় লাইব্রেরি", "বিজ্ঞানাগার", "কম্পিউটার সেন্টার"],
+    "website": "https://rajshahicollege.gov.bd",
+    "contact": {
+      "phone": "0721-772345",
+      "email": "info@rajshahicollege.gov.bd",
+      "address": "কলেজ রোড, রাজশাহী"
+    }
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "class": 1,
+    "className": "প্রথম শ্রেণি",
+    "chapters": [
+      {
+        "id": 1,
+        "name": "সংখ্যা পরিচিতি",
+        "problems": [
+          {
+            "id": 1,
+            "question": "১ থেকে ১০ পর্যন্ত সংখ্যা লেখো",
+            "solution": "১, ২, ৩, ৪, ৫, ৬, ৭, ৮, ৯, ১০",
+            "bangla": true
+          },
+          {
+            "id": 1,
+            "question": "Write numbers from 1 to 10",
+            "solution": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10",
+            "bangla": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "যোগ করা",
+        "problems": [
+          {
+            "id": 1,
+            "question": "২ + ৩ = ?",
+            "solution": "২ + ৩ = ৫",
+            "bangla": true
+          },
+          {
+            "id": 1,
+            "question": "2 + 3 = ?",
+            "solution": "2 + 3 = 5",
+            "bangla": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class": 6,
+    "className": "ষষ্ঠ শ্রেণি",
+    "chapters": [
+      {
+        "id": 1,
+        "name": "প্রাকৃতিক সংখ্যা",
+        "problems": [
+          {
+            "id": 1,
+            "question": "১২৫ + ৭৫ = ?",
+            "solution": "১২৫ + ৭৫ = ২০০\n\nসমাধান:\nপ্রথমে আমরা একক স্থানের সংখ্যা যোগ করি:\n৫ + ৫ = ১০ (১ হাতে রাখি)\n\nতারপর দশক স্থানের সংখ্যা যোগ করি:\n২ + ৭ + ১ (হাত থেকে) = ১০ (১ হাতে রাখি)\n\nশেষে শতক স্থানের সংখ্যা যোগ করি:\n১ + ০ + ১ (হাত থেকে) = ২\n\nতাই উত্তর = ২০০",
+            "bangla": true
+          },
+          {
+            "id": 1,
+            "question": "125 + 75 = ?",
+            "solution": "125 + 75 = 200\n\nSolution:\nFirst, we add the units place:\n5 + 5 = 10 (carry 1)\n\nThen, we add the tens place:\n2 + 7 + 1 (carry) = 10 (carry 1)\n\nFinally, we add the hundreds place:\n1 + 0 + 1 (carry) = 2\n\nTherefore, the answer = 200",
+            "bangla": false
+          },
+          {
+            "id": 2,
+            "question": "৩৪৫ - ১২৮ = ?",
+            "solution": "৩৪৫ - ১২৮ = ২১৭\n\nসমাধান:\nপ্রথমে একক স্থান: ৫ - ৮ করা যাবে না, তাই দশক স্থান থেকে ১ ধার নিই\n১৫ - ৮ = ৭\n\nদশক স্থান: ৪ - ১ = ৩, কিন্তু ১ ধার দিয়েছি, তাই ৩ - ২ = ১\n\nশতক স্থান: ৩ - ১ = ২\n\nতাই উত্তর = ২১৭",
+            "bangla": true
+          },
+          {
+            "id": 2,
+            "question": "345 - 128 = ?",
+            "solution": "345 - 128 = 217\n\nSolution:\nUnits place: 5 - 8 cannot be done, so borrow 1 from tens place\n15 - 8 = 7\n\nTens place: 4 - 1 = 3, but we borrowed 1, so 3 - 2 = 1\n\nHundreds place: 3 - 1 = 2\n\nTherefore, the answer = 217",
+            "bangla": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "ভগ্নাংশ",
+        "problems": [
+          {
+            "id": 1,
+            "question": "১/২ + ১/৪ = ?",
+            "solution": "১/২ + ১/৪ = ৩/৪\n\nসমাধান:\nপ্রথমে সাধারণ হর বের করি। ২ এবং ৪ এর ল.সা.গু = ৄ\n\n১/২ = ২/৪ (লব ও হর উভয়কে ২ দিয়ে গুণ)\n১/৪ = ১/৪ (এটি আগের মতোই থাকবে)\n\nএখন যোগ করি:\n২/৪ + ১/৪ = (২+১)/৪ = ৩/৪\n\nতাই উত্তর = ৩/৪",
+            "bangla": true
+          },
+          {
+            "id": 1,
+            "question": "1/2 + 1/4 = ?",
+            "solution": "1/2 + 1/4 = 3/4\n\nSolution:\nFirst, find the common denominator. LCM of 2 and 4 = 4\n\n1/2 = 2/4 (multiply both numerator and denominator by 2)\n1/4 = 1/4 (remains the same)\n\nNow add:\n2/4 + 1/4 = (2+1)/4 = 3/4\n\nTherefore, the answer = 3/4",
+            "bangla": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class": 7,
+    "className": "সপ্তম শ্রেণি",
+    "chapters": [
+      {
+        "id": 1,
+        "name": "পূর্ণসংখ্যা",
+        "problems": [
+          {
+            "id": 1,
+            "question": "(-৫) + (+৮) = ?",
+            "solution": "(-৫) + (+৮) = +৩\n\nসমাধান:\nযখন বিপরীত চিহ্নের সংখ্যা যোগ করি, তখন বড় সংখ্যা থেকে ছোট সংখ্যা বিয়োগ করি এবং বড় সংখ্যার চিহ্ন রাখি।\n\n৮ > ৫, তাই ৮ - ৫ = ৩\n৮ এর চিহ্ন ধনাত্মক, তাই উত্তর +৩",
+            "bangla": true
+          },
+          {
+            "id": 1,
+            "question": "(-5) + (+8) = ?",
+            "solution": "(-5) + (+8) = +3\n\nSolution:\nWhen adding numbers with opposite signs, subtract the smaller number from the larger number and keep the sign of the larger number.\n\n8 > 5, so 8 - 5 = 3\nThe sign of 8 is positive, so the answer is +3",
+            "bangla": false
+          }
+        ]
+      }
+    ]
+  }
+]

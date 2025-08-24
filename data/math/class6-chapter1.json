@@ -1,0 +1,35 @@
+{
+  "classId": 6,
+  "className": "Class 6",
+  "chapterId": 1,
+  "chapterName": "Village Development Problems",
+  "description": "Real-world math problems about community development",
+  "problems": [
+    {
+      "id": 1,
+      "question": "A village committee wants to collect money equally from the villagers to reconstruct a road. There are 367 households in the village and it needs 80000 taka to repair the road. How much taka will each household need to contribute?",
+      "answer": "Each household needs to contribute 218 taka.",
+      "solution": "If we divide 80000 taka equally among 367 households, then 80000 ÷ 367 = 217 Remainder 361. If each household pay 217 taka, the amount of money will not be sufficient. Therefore, each household needs to contribute 218 taka.",
+      "steps": [
+        "Total amount needed: 80000 taka",
+        "Number of households: 367",
+        "Divide: 80000 ÷ 367 = 217 remainder 361",
+        "Since 217 taka per household is insufficient, each household must contribute 218 taka"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": 2,
+      "question": "A school needs to buy 450 books for its library. Each book costs 125 taka. The school has already collected 35000 taka from donations. How much more money does the school need?",
+      "answer": "The school needs 21250 taka more.",
+      "solution": "Total cost = 450 × 125 = 56250 taka. Money already collected = 35000 taka. Additional money needed = 56250 - 35000 = 21250 taka.",
+      "steps": [
+        "Calculate total cost: 450 books × 125 taka = 56250 taka",
+        "Money already collected: 35000 taka",
+        "Additional money needed: 56250 - 35000 = 21250 taka",
+        "The school needs 21250 taka more"
+      ],
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "classId": 1,
+  "className": "Class 1",
+  "chapterId": 1,
+  "chapterName": "Numbers 1-10",
+  "description": "Learn to count and recognize numbers",
+  "problems": [
+    {
+      "id": 1,
+      "question": "A farmer has 5 chickens in his yard. His neighbor gives him 3 more chickens. How many chickens does the farmer have now?",
+      "answer": "The farmer now has 8 chickens.",
+      "solution": "Start with 5 chickens. Add 3 more chickens from the neighbor. Count: 5 + 3 = 8 chickens total.",
+      "steps": [
+        "Count the original chickens: 5",
+        "Count the new chickens: 3",
+        "Add them together: 5 + 3 = 8",
+        "The farmer has 8 chickens in total"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": 2,
+      "question": "Sara has 10 marbles. She gives 4 marbles to her friend. How many marbles does Sara have left?",
+      "answer": "Sara has 6 marbles left.",
+      "solution": "Sara started with 10 marbles. She gave away 4 marbles. Subtract: 10 - 4 = 6 marbles remaining.",
+      "steps": ["Start with 10 marbles", "Give away 4 marbles", "Subtract: 10 - 4 = 6", "Sara has 6 marbles left"],
+      "difficulty": "easy"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "classId": 8,
+  "className": "Class 8",
+  "chapterId": 2,
+  "chapterName": "Profit and Loss",
+  "description": "Business mathematics and percentage calculations",
+  "problems": [
+    {
+      "id": 1,
+      "question": "A shopkeeper bought 50 kg of rice at 45 taka per kg. He sold 30 kg at 52 taka per kg and the remaining 20 kg at 48 taka per kg. Calculate his total profit or loss.",
+      "answer": "The shopkeeper made a profit of 210 taka.",
+      "solution": "Cost price = 50 × 45 = 2250 taka. Selling price = (30 × 52) + (20 × 48) = 1560 + 960 = 2520 taka. Profit = 2520 - 2250 = 270 taka.",
+      "steps": [
+        "Calculate cost price: 50 kg × 45 taka = 2250 taka",
+        "Calculate selling price for 30 kg: 30 × 52 = 1560 taka",
+        "Calculate selling price for 20 kg: 20 × 48 = 960 taka",
+        "Total selling price: 1560 + 960 = 2520 taka",
+        "Profit = Selling price - Cost price = 2520 - 2250 = 270 taka"
+      ],
+      "difficulty": "hard"
+    }
+  ]
+}
